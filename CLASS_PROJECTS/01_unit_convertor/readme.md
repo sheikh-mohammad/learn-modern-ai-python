@@ -14,4 +14,4 @@ https://forms.gle/tS7C3sr55tUZ36GY8
 
 You can required to innovate and improve the webapp.
 
-You will also share your published app in your section whatsapp group. However, do not share your source code or github repo anywhere.
+You will also share your published app in your section Discord channel. However, do not share your source code or github repo link anywhere.
