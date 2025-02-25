@@ -1,1 +1,0 @@
-# [Lesson 12: Asyncio & Threading](https://colab.research.google.com/drive/1p0ep344ykh0BC5_0EtLoyEMLDhCfSphD?usp=sharing)

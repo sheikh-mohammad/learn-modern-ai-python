@@ -1,1 +1,0 @@
-# [Lesson 11: OOP - Objects & Classes](https://colab.research.google.com/drive/10kCAqWJarynBmsvZwD9OAo9SYDq6Bwvr?usp=sharing)
