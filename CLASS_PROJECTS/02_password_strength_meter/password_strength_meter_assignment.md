@@ -90,4 +90,8 @@ check_password_strength(password)
 ✅ **Teaches Security Best Practices**  
 ✅ **Prepares for Real-World Applications**  
 
-💡 **Challenge yourself to build a better, more secure password checker!** 🚀  
+💡 **Challenge yourself to build a better, more secure password checker!** 🚀 
+
+Once you are done submit this form ASAP:
+
+https://forms.gle/tS7C3sr55tUZ36GY8 
