@@ -30,7 +30,7 @@ AI-101 students will submit the projects in the following form:
 
 AI-101 students will submit the projects in the following form:
 
-**For Governor House Students** = https://forms.gle/CixPAnwR726zuosK6
+**For Governor House Students** = 
 
 Project Checking: Your Instructors will check your project on the due date in onsite class. The due date will be selected by the onsite class instructors. **You will be removed from the class until you successfully complete your project and submit it.**
 
