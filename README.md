@@ -2,53 +2,43 @@
 
 This repo is part of the [Certified Cloud Native Applied Generative AI Engineer](https://docs.google.com/document/d/15usu1hkrrRLRjcq_3nCTT-0ljEcgiC44iSdvdqrCprk/edit?usp=sharing) program. It covers the first quarter of the course work:
 
-### AI-101: Modern AI Python Programming
+### AI-101: Modern AI Python Programming - Your Launchpad into Intelligent Systems
 
-The main focus in this course will be on mastering the fundamentals of Modern Python with Typing using Google Colab, the go-to language for AI and using AI to write Python Programs. 
+AI-101 is your comprehensive gateway to Python programming for Artificial Intelligence. This course is laser-focused on equipping you with **Modern Python skills**, emphasizing **static typing**, the cornerstone of robust and scalable AI development.  Uniquely, you will also learn to **harness the power of AI to write Python code**, accelerating your learning and development process. From foundational concepts to advanced techniques and practical web application development, AI-101 provides everything you need to excel in AI-driven projects and beyond.
+
+**Key Learning Modules:**
+*   **Module 1: Python Fundamentals & Modern Typing:**  Establish a strong foundation in Python syntax, data structures (lists, dictionaries, sets, tuples), control flow, and functions.  Critically, we introduce **Python's type hinting system**, emphasizing its importance for code clarity, error prevention, and maintainability, especially in complex AI projects.
+
+*   **Module 2: Object-Oriented Programming (OOP) in Python for AI:** Master the principles of OOP (classes, objects, inheritance, polymorphism, encapsulation) and understand how to apply them effectively in AI development. Learn to structure complex AI systems using object-oriented design for modularity and reusability.
+
+*   **Module 3: Advanced Python Concepts: Asynchronous Programming & Performance:**  Dive into advanced Python features like asynchronous programming (`asyncio`) for building efficient and concurrent applications, crucial for handling large datasets and complex AI workloads. Explore performance optimization techniques and understand the role of Python's Global Interpreter Lock (GIL) and upcoming solutions like "No GIL" for enhanced concurrency.
+
+*   **Module 4:  AI-Assisted Python Programming:**  Leverage the power of AI tools to enhance your Python coding skills. This module will introduce you to techniques and tools that utilize AI to generate code snippets, debug programs, refactor code, and improve your overall Python development workflow.  Learn to work *with* AI to become a more efficient Python programmer.
+
+*   **Module 5:  Web Application Basics with Python (UV, Streamlit, Next.js & GitHub):**  Gain practical experience in building basic web applications using Python. We will explore lightweight web frameworks and tools including UV for environment management, Streamlit for rapid UI creation, and introduce the concepts behind modern frontend frameworks like Next.js to understand the full stack. You'll also learn essential version control using GitHub for collaborative development and project management.  (Note: *Initially listed UV, VSCode, Streamlit, GitHub - corrected to include Next.js context and clarified UV's role*).
+
+*   **Module 6:  Future of Python & Python in AI:**  Explore the evolving landscape of Python, including upcoming features and performance improvements.  Discuss the continued dominance of Python in the AI field and its application in cutting-edge AI domains like Machine Learning, Deep Learning, and Agentic AI.
+
+**Course Outcomes:**
+
+Upon successful completion of this course, students will be able to:
+
+*   Write proficient Modern Python code utilizing static typing for robust and maintainable AI applications.
+*   Apply Object-Oriented Programming principles effectively in Python for structuring complex AI systems.
+*   Implement asynchronous programming in Python for building high-performance AI applications.
+*   Utilize AI-powered tools and techniques to enhance their Python coding efficiency and quality.
+*   Develop basic Python web applications using modern tools and understand fundamental web development concepts.
+*   Articulate the future directions of Python and its continued crucial role in the field of Artificial Intelligence.
+
+
 
 ![Python](top-python.webp)
 
-### Online AI-101 Project Classes every Tuesday 8:00 pm
+### Class Videos
 
-Instructors: Hamza and Najam
+[Watch Class Video Playlist by Hamza and Najam](https://www.youtube.com/playlist?list=PL0vKVrkG4hWonNrHafPb2ZD-VnlzVUwmA)
 
-In these online classes the main focus will be on doing the following projects in class:
-https://github.com/panaversity/learn-modern-ai-python/tree/main/PROJECTS/online_class_projects
-
-The Zoom Link for the online classes:
-https://us06web.zoom.us/j/85338730622?pwd=KBNfeMPBhDTN7GMi7lH9K5UN6APAt9.1
-
-You can also watch on YouTube if the Zoom class is full also recorded videos: 
-https://www.youtube.com/@panaverse
-
-### Compulsory Projects for AI-101 Modern AI Python Students
-
-All AI-101 students must complete these compulsory projects, or they will be removed from class until they complete and submit them:
-
-https://github.com/panaversity/learn-modern-ai-python/tree/main/PROJECTS/projects_to_be_submitted_by_students
-
-Your Instructors will assign a due date for the projects in class. You will submit your project in this form:
-
-https://forms.gle/VPw9wnmt1j8e7bnb6
-
-The instructors will check your project in the onsite class on the due date. If you do not submit on the due date, you will be removed from
-the class until you successfully complete your project and submit it.
-
-For practice you should do the following homework projects (not to be submitted only for practice in class and at home):
-https://github.com/panaversity/learn-modern-ai-python/tree/main/PROJECTS/homework_projects
-
-
-
-
-## Additional Certification Program Material
-
-[Program Podcast](https://youtu.be/ViRWA4wLI8k)
-
-[Agentic AI Detailed Intro Presentation](https://bit.ly/4hTqT4G)
-
-[Program Review by ChatGPT](https://chatgpt.com/share/6732a6f1-a3c4-8001-99cb-1b272c3b3881)
-
-Read this article to understand [The AI agents stack](https://www.letta.com/blog/ai-agents-stack)
+[Watch Class Video Playlist by Qasim](https://www.youtube.com/playlist?list=PL0vKVrkG4hWrEujmnC7v2mSiaXMV_Tfu0)
 
 ## We will be using Google Colab for development:
 
