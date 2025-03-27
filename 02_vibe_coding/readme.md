@@ -6,6 +6,17 @@
 
 [Short Course: Vibe Coding 101 with Replit](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)
 
+## Vibe Coding or CHOP?
+
+In the software industry as of early 2025, "vibe coding" appears to be the more popular term compared to "CHOP" (Chat-Oriented Programming), based on its broader recognition and discussion across various platforms. Coined by Andrej Karpathy in February 2025, "vibe coding" has quickly gained traction due to its catchy phrasing and the buzz it has generated among developers, tech enthusiasts, and industry commentators. It describes a relaxed, AI-driven approach where developers guide large language models (LLMs) with natural language prompts to generate code, often with minimal manual intervention or deep understanding of the output. This term has been widely featured in articles, blogs, and social media, reflecting its resonance with the ongoing AI-assisted coding trend.
+
+"CHOP," attributed to Steve Yegge, refers to a related but more specific concept: using conversational interfaces with LLMs to generate and modify code. While it has a dedicated following and is explored in depth in contexts like Yegge’s writings, it hasn’t achieved the same level of mainstream buzz or widespread adoption in industry discourse as "vibe coding." CHOP tends to appeal more to those already familiar with AI-driven workflows, whereas "vibe coding" has a broader, more accessible appeal, partly due to its informal, vibe-based branding.
+
+Evidence of "vibe coding’s" popularity includes its frequent mentions in tech publications like Ars Technica, ZDNET, and Visual Studio Magazine, as well as its adoption by tool providers like Cursor and GitHub Copilot to describe their AI-assisted features. Meanwhile, "CHOP" remains less prominent, often overshadowed by "vibe coding" in casual and professional conversations alike. Posts on X also suggest "vibe coding" has sparked more debate and recognition, even if some users propose "CHOP" as a more precise alternative. Overall, "vibe coding" currently holds greater sway in the software industry’s lexicon.
+
+
+## What is Vibe Coding
+
 "Vibe coding" is a term that's emerged to describe a style of programming that heavily relies on artificial intelligence (AI) tools, particularly large language models (LLMs), to generate code. Here's a breakdown of the key concepts:
 
 * **Natural Language Interaction:**
