@@ -174,4 +174,3 @@ describe(p3)  # Output: Charlie is an adult.
 ## **Conclusion**
 The `match-case` statement is a powerful tool in Python 3.10+ that improves code readability and efficiency by allowing pattern matching. It is especially useful for working with structured data, replacing long `if-elif-else` chains.
 
-Would you like more practical examples or a use case for your specific project? 🚀
