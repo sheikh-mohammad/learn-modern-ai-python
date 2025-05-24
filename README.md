@@ -75,3 +75,10 @@ To begin using Google Colab:
 For more detailed information and tutorials, refer to the [Colaboratory Frequently Asked Questions](https://research.google.com/colaboratory/faq.html) and the [Colab Help Center](https://support.google.com/colab/).
 
 Google Colab is a valuable tool for both beginners and professionals in data science and machine learning, offering an accessible platform to develop and share projects efficiently. 
+
+# Python complete roadmap all built-in functions and data-types
+## Python Built-in Types and Methods Reference
+
+![Python Built-in Types and Methods](python-all-types-and-methods.png)
+
+[Download Python Built-in Types and Methods PDF](python-all-types-and-methods.pdf)
