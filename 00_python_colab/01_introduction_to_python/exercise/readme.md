@@ -82,7 +82,7 @@ Create a simple Python program that calculates and displays a customer’s café
 
    Total Bill: $9.5
 
-## **💡 Bonus Challenge (Optional)**
+## 💡 Bonus Challenge (Optional)
 Add a line that thanks the customer:
 
 print("Thank you for visiting our café,", customer_name + "!")
@@ -93,7 +93,6 @@ Thank you for visiting our café, Ayesha!
 ---
 
 **✅ Learning Outcomes**
-
 By completing both use cases, you will:
 
 * Practice declaring and using variables
